@@ -18,9 +18,29 @@
 (2020年2月26日時点)
 
 ![テクトレ 001](https://user-images.githubusercontent.com/3102940/75341544-0ba89800-58d8-11ea-9867-6f44872ec30e.jpeg)
+
+- [テクトレのプロジェクトページ](https://github.com/CODEBASE-Okinawa/codebase-tech-training/projects/1)
+
 ![テクトレ 002](https://user-images.githubusercontent.com/3102940/75341546-0cd9c500-58d8-11ea-8c97-2eeb8b6a6a3d.jpeg)
+
 ![テクトレ 003](https://user-images.githubusercontent.com/3102940/75341548-0d725b80-58d8-11ea-9bcb-606dbe468b87.jpeg)
+
 ![テクトレ 004](https://user-images.githubusercontent.com/3102940/75341549-0e0af200-58d8-11ea-9bfb-587a7f66bd85.jpeg)
+
+- [テンプレート](https://github.com/CODEBASE-Okinawa/codebase-tech-training#%E8%AA%B2%E9%A1%8C%E3%81%AE%E5%8F%96%E3%82%8A%E6%96%B9)
+
+テンプレート
+
+```
+**リポジトリ: (リポジトリの最初のissueのURL)**
+
+**自分なりのゴール:**
+内容
+
+**この課題を選んだ理由:**
+内容
+```
+
 ![テクトレ 005](https://user-images.githubusercontent.com/3102940/75341551-0ea38880-58d8-11ea-9cf2-d10a617df723.jpeg)
 
 
