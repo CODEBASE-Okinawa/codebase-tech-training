@@ -15,7 +15,14 @@
 # テクトレへの取り組み方
 
 現時点での取り組み方は、次のようになっています
-(2020年1月21日時点)
+(2020年2月26日時点)
+
+![テクトレ 001](https://user-images.githubusercontent.com/3102940/75341544-0ba89800-58d8-11ea-9867-6f44872ec30e.jpeg)
+![テクトレ 002](https://user-images.githubusercontent.com/3102940/75341546-0cd9c500-58d8-11ea-8c97-2eeb8b6a6a3d.jpeg)
+![テクトレ 003](https://user-images.githubusercontent.com/3102940/75341548-0d725b80-58d8-11ea-9bcb-606dbe468b87.jpeg)
+![テクトレ 004](https://user-images.githubusercontent.com/3102940/75341549-0e0af200-58d8-11ea-9bfb-587a7f66bd85.jpeg)
+![テクトレ 005](https://user-images.githubusercontent.com/3102940/75341551-0ea38880-58d8-11ea-9cf2-d10a617df723.jpeg)
+
 
 1. 取り組む課題を選んで参加する
 2. 学習用にgithubで新しい公開リポジトリを作成して、最初のissue作成してそのURLを取り組むissueのコメントに貼る
